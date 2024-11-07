@@ -1,0 +1,14 @@
+D:\projects\oqidjfkxcm\oqidjfkxcm\bin\Debug\net8.0\oqidjfkxcm.exe
+D:\projects\oqidjfkxcm\oqidjfkxcm\bin\Debug\net8.0\oqidjfkxcm.deps.json
+D:\projects\oqidjfkxcm\oqidjfkxcm\bin\Debug\net8.0\oqidjfkxcm.runtimeconfig.json
+D:\projects\oqidjfkxcm\oqidjfkxcm\bin\Debug\net8.0\oqidjfkxcm.dll
+D:\projects\oqidjfkxcm\oqidjfkxcm\bin\Debug\net8.0\oqidjfkxcm.pdb
+D:\projects\oqidjfkxcm\oqidjfkxcm\obj\Debug\net8.0\oqidjfkxcm.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\oqidjfkxcm\oqidjfkxcm\obj\Debug\net8.0\oqidjfkxcm.AssemblyInfoInputs.cache
+D:\projects\oqidjfkxcm\oqidjfkxcm\obj\Debug\net8.0\oqidjfkxcm.AssemblyInfo.cs
+D:\projects\oqidjfkxcm\oqidjfkxcm\obj\Debug\net8.0\oqidjfkxcm.csproj.CoreCompileInputs.cache
+D:\projects\oqidjfkxcm\oqidjfkxcm\obj\Debug\net8.0\oqidjfkxcm.dll
+D:\projects\oqidjfkxcm\oqidjfkxcm\obj\Debug\net8.0\refint\oqidjfkxcm.dll
+D:\projects\oqidjfkxcm\oqidjfkxcm\obj\Debug\net8.0\oqidjfkxcm.pdb
+D:\projects\oqidjfkxcm\oqidjfkxcm\obj\Debug\net8.0\oqidjfkxcm.genruntimeconfig.cache
+D:\projects\oqidjfkxcm\oqidjfkxcm\obj\Debug\net8.0\ref\oqidjfkxcm.dll
